@@ -1,7 +1,4 @@
 ![alt text](image.png)
-![alt text](image-1.png)
-
-
 
 
 Build application with frontend and backend where you register a user and assign roles and permission to the user and based on roles display different view
